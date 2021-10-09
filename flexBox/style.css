@@ -1,1 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-decoration: none;
+  background-color: #3b82f6;
+  color: white;
+  border-radius: 8px;
+  margin-right: 12px;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  background-color: #e5e7eb;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Birthstone', sans-serif;
+}
+
+.title {
+  font-size: 32px;
+  color: #3b82f6;
+  font-weight: 400;
+}
+
+.subscribe {
+  background-color: #b91c1c;
+  padding: 8px;
+  border-radius: 8px;
+  color: white;
+}
